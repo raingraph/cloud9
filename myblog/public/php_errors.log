@@ -1,0 +1,24 @@
+[14-Aug-2017 06:20:13 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on null in /home/ubuntu/workspace/myblog/public/10/index.blade.php on line 11
+[14-Aug-2017 06:20:57 UTC] PHP Notice:  Undefined variable: welcome_message in /home/ubuntu/workspace/myblog/public/10/index.blade.php on line 41
+[14-Aug-2017 06:20:57 UTC] PHP Notice:  Use of undefined constant 　 - assumed '　' in /home/ubuntu/workspace/myblog/public/10/index.blade.php on line 41
+[14-Aug-2017 06:20:57 UTC] PHP Notice:  Undefined variable: data_select in /home/ubuntu/workspace/myblog/public/10/index.blade.php on line 45
+[14-Aug-2017 06:20:57 UTC] PHP Notice:  Undefined variable: signup_link in /home/ubuntu/workspace/myblog/public/10/index.blade.php on line 46
+[14-Aug-2017 06:20:57 UTC] PHP Notice:  Undefined variable: login_link in /home/ubuntu/workspace/myblog/public/10/index.blade.php on line 47
+[14-Aug-2017 06:20:57 UTC] PHP Notice:  Undefined variable: logout_link in /home/ubuntu/workspace/myblog/public/10/index.blade.php on line 48
+[14-Aug-2017 06:20:57 UTC] PHP Notice:  Undefined variable: twitterLogin in /home/ubuntu/workspace/myblog/public/10/index.blade.php on line 53
+[14-Aug-2017 06:20:57 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on null in /home/ubuntu/workspace/myblog/public/10/index.blade.php on line 53
+[14-Aug-2017 06:23:36 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/myblog/public/test/index.php on line 4
+[14-Aug-2017 06:23:36 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/myblog/public/test/index.php on line 4
+[14-Aug-2017 06:23:36 UTC] PHP Fatal error:  Call to undefined function db_con() in /home/ubuntu/workspace/myblog/public/test/index.php on line 8
+[14-Aug-2017 06:24:18 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/myblog/public/test/index.php on line 4
+[14-Aug-2017 06:24:18 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/myblog/public/test/index.php on line 4
+[14-Aug-2017 06:24:18 UTC] PHP Fatal error:  Call to undefined function db_con() in /home/ubuntu/workspace/myblog/public/test/index.php on line 8
+[14-Aug-2017 06:24:24 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/myblog/public/test/index.php on line 4
+[14-Aug-2017 06:24:24 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/myblog/public/test/index.php on line 4
+[14-Aug-2017 06:24:24 UTC] PHP Fatal error:  Call to undefined function db_con() in /home/ubuntu/workspace/myblog/public/test/index.php on line 8
+[14-Aug-2017 06:25:20 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/myblog/public/test/index.blade.php on line 4
+[14-Aug-2017 06:25:20 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/myblog/public/test/index.blade.php on line 4
+[14-Aug-2017 06:25:20 UTC] PHP Fatal error:  Call to undefined function db_con() in /home/ubuntu/workspace/myblog/public/test/index.blade.php on line 8
+[14-Aug-2017 06:25:20 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/myblog/public/test/index.blade.php on line 4
+[14-Aug-2017 06:25:20 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/myblog/public/test/index.blade.php on line 4
+[14-Aug-2017 06:25:20 UTC] PHP Fatal error:  Call to undefined function db_con() in /home/ubuntu/workspace/myblog/public/test/index.blade.php on line 8
